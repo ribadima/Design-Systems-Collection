@@ -1,5 +1,7 @@
 # Design Systems Collection
 
+Collection of the best world design systems.
+
 * Just send a Pull Request for adding new system
 * Subscribe to our [Telegram Channel](https://tglink.me/lostdesign)
 
